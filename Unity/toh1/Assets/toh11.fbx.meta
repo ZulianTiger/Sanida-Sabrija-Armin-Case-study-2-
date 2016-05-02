@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 7bf36d7a70ac8814ba898e93baaa38a6
+timeCreated: 1462190765
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 100r
+    100002: 110r
+    100004: 120r
+    100006: 130r
+    100008: 140r
+    100010: 50r
+    100012: 60r
+    100014: 70r
+    100016: 80r
+    100018: 90r
+    100020: Cylinder
+    100022: Cylinder.1
+    100024: Cylinder.2
+    100026: Oil Tank
+    100028: Oil Tank.1
+    100030: Oil Tank.2
+    100032: Plane
+    100034: //RootNode
+    400000: 100r
+    400002: 110r
+    400004: 120r
+    400006: 130r
+    400008: 140r
+    400010: 50r
+    400012: 60r
+    400014: 70r
+    400016: 80r
+    400018: 90r
+    400020: Cylinder
+    400022: Cylinder.1
+    400024: Cylinder.2
+    400026: Oil Tank
+    400028: Oil Tank.1
+    400030: Oil Tank.2
+    400032: Plane
+    400034: //RootNode
+    2300000: 100r
+    2300002: 110r
+    2300004: 120r
+    2300006: 130r
+    2300008: 140r
+    2300010: 50r
+    2300012: 60r
+    2300014: 70r
+    2300016: 80r
+    2300018: 90r
+    2300020: Cylinder
+    2300022: Cylinder.1
+    2300024: Cylinder.2
+    2300026: Oil Tank
+    2300028: Oil Tank.1
+    2300030: Oil Tank.2
+    2300032: Plane
+    3300000: 100r
+    3300002: 110r
+    3300004: 120r
+    3300006: 130r
+    3300008: 140r
+    3300010: 50r
+    3300012: 60r
+    3300014: 70r
+    3300016: 80r
+    3300018: 90r
+    3300020: Cylinder
+    3300022: Cylinder.1
+    3300024: Cylinder.2
+    3300026: Oil Tank
+    3300028: Oil Tank.1
+    3300030: Oil Tank.2
+    3300032: Plane
+    4300000: 50r
+    4300002: 60r
+    4300004: 70r
+    4300006: 80r
+    4300008: 90r
+    4300010: 100r
+    4300012: 110r
+    4300014: 120r
+    4300016: 130r
+    4300018: 140r
+    4300020: Oil Tank.2
+    4300022: Oil Tank.1
+    4300024: Oil Tank
+    4300026: Cylinder.2
+    4300028: Cylinder.1
+    4300030: Cylinder
+    4300032: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
